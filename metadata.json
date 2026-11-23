@@ -1,0 +1,6 @@
+{
+  "name": "Veil",
+  "description": "Privacy-first, on-device AI workspace featuring an encrypted Private Journal with mood insights and a Smart Document Scanner.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
